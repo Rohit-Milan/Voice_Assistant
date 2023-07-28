@@ -2,11 +2,11 @@ Download The V.2.5.exe file directly and run it to make the assistant work. For 
 
 Available Commands List :
 
-'Wikipedia' anything = Searches for anything in Wikipedia
-'Open youtube' = Opens youtube in chrome browser
-'Open google' = Opens google in chrome browser
-'Open instagram' = Opens instagram in chrome browser
-'Open stackoverflow' = Opens stackoverflow in chrome browser
+1.'Wikipedia' anything = Searches for anything in Wikipedia\
+2.'Open youtube' = Opens youtube in chrome browser\
+3.'Open google' = Opens google in chrome browser\
+4.'Open instagram' = Opens instagram in chrome browser\
+5.'Open stackoverflow' = Opens stackoverflow in chrome browser
 'Watch','anime' = Opens anime in animixplay.com in chrome browser
 'Open',anything,'in browser' = Opens anything.com in chrome browser
 'Play music' = Asks for choice of preferred streaming service and opens it(If pc playing is required change accordingly)
