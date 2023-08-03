@@ -32,4 +32,11 @@ Available Commands List :
 28.'Weather' = Shows weather\
 29.'Open Wikipedia' = Opens Wikipedia in chrome browser\
 30.'What is', 'Who is' = Checks Wolfram\
+Log off' = Logs off system\
+25.'Write a note' = Writes a note\
+26.'Show note' = Shows the note\
+27.'Update assistant' = Updates assistant\
+28.'Weather' = Shows weather\
+29.'Open Wikipedia' = Opens Wikipedia in chrome browser\
+30.'What is', 'Who is' = Checks Wolfram\
 
