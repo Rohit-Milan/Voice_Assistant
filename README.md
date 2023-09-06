@@ -32,5 +32,4 @@ Available Commands List :
 28.'Weather' = Shows weather\
 29.'Open Wikipedia' = Opens Wikipedia in chrome browser\
 30.'What is', 'Who is' = Checks Wolfram\
-30.'What is', 'Who is' = Checks Wolfram\
 
